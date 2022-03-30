@@ -1,0 +1,15 @@
+C:\Users\gonza\source\repos\Examen\Examen\bin\Release\Examen.exe.config
+C:\Users\gonza\source\repos\Examen\Examen\bin\Release\Examen.exe
+C:\Users\gonza\source\repos\Examen\Examen\bin\Release\Examen.pdb
+C:\Users\gonza\source\repos\Examen\Examen\bin\Release\AForge.dll
+C:\Users\gonza\source\repos\Examen\Examen\bin\Release\AForge.Imaging.dll
+C:\Users\gonza\source\repos\Examen\Examen\bin\Release\AForge.Math.dll
+C:\Users\gonza\source\repos\Examen\Examen\obj\Release\Examen.csproj.AssemblyReference.cache
+C:\Users\gonza\source\repos\Examen\Examen\obj\Release\Examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\gonza\source\repos\Examen\Examen\obj\Release\Examen.frm_Imagenes.resources
+C:\Users\gonza\source\repos\Examen\Examen\obj\Release\Examen.Properties.Resources.resources
+C:\Users\gonza\source\repos\Examen\Examen\obj\Release\Examen.csproj.GenerateResource.cache
+C:\Users\gonza\source\repos\Examen\Examen\obj\Release\Examen.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Examen\Examen\obj\Release\Examen.csproj.CopyComplete
+C:\Users\gonza\source\repos\Examen\Examen\obj\Release\Examen.exe
+C:\Users\gonza\source\repos\Examen\Examen\obj\Release\Examen.pdb
